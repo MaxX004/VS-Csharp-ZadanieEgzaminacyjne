@@ -1,0 +1,15 @@
+C:\Users\4PN_gr2\source\repos\MSzymaniec\MSzymaniec\bin\Debug\MSzymaniec.exe.config
+C:\Users\4PN_gr2\source\repos\MSzymaniec\MSzymaniec\bin\Debug\MSzymaniec.exe
+C:\Users\4PN_gr2\source\repos\MSzymaniec\MSzymaniec\bin\Debug\MSzymaniec.pdb
+C:\Users\4PN_gr2\source\repos\MSzymaniec\MSzymaniec\obj\Debug\MSzymaniec.csproj.AssemblyReference.cache
+C:\Users\4PN_gr2\source\repos\MSzymaniec\MSzymaniec\obj\Debug\MSzymaniec.csproj.SuggestedBindingRedirects.cache
+C:\Users\4PN_gr2\source\repos\MSzymaniec\MSzymaniec\obj\Debug\MSzymaniec.csproj.CoreCompileInputs.cache
+C:\Users\4PN_gr2\source\repos\MSzymaniec\MSzymaniec\obj\Debug\MSzymaniec.exe
+C:\Users\4PN_gr2\source\repos\MSzymaniec\MSzymaniec\obj\Debug\MSzymaniec.pdb
+C:\Users\chudy\Documents\Programming\MSzymaniec\MSzymaniec\bin\Debug\MSzymaniec.exe.config
+C:\Users\chudy\Documents\Programming\MSzymaniec\MSzymaniec\bin\Debug\MSzymaniec.exe
+C:\Users\chudy\Documents\Programming\MSzymaniec\MSzymaniec\bin\Debug\MSzymaniec.pdb
+C:\Users\chudy\Documents\Programming\MSzymaniec\MSzymaniec\obj\Debug\MSzymaniec.csproj.AssemblyReference.cache
+C:\Users\chudy\Documents\Programming\MSzymaniec\MSzymaniec\obj\Debug\MSzymaniec.csproj.CoreCompileInputs.cache
+C:\Users\chudy\Documents\Programming\MSzymaniec\MSzymaniec\obj\Debug\MSzymaniec.exe
+C:\Users\chudy\Documents\Programming\MSzymaniec\MSzymaniec\obj\Debug\MSzymaniec.pdb
